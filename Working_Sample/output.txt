@@ -1,0 +1,17 @@
+# Example data file created by a very scientific program
+
+@Please cite: P. Silie, K. Te, G. Heinrich *Nature Science* __1961__, *1*, 123.
+@Legend:
+@x: time / ps
+@y: observation / au
+ 0 12.3
+ 1 435.3
+ 2 24.4
+ 3 34.6
+ 4 221.3
+ 5 11.2
+ 6 10.1
+ 7 10.0
+ 8 10.2
+ 9      # data corrupted?
+10

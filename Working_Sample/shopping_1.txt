@@ -1,0 +1,6 @@
+# This file is a shopping list with the name and the number of the items.
+Apple 3
+Orange 1
+Mango 6
+Onion 2
+Carrot 1
